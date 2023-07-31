@@ -1,2 +1,3 @@
-# ruby_objetos
-Archivo .rb en donde se ven herencias
+#Ruby_objetos
+
+##En este archivo se ven algunos ejercicios sobre la herencia y polimorfismo
